@@ -4,7 +4,8 @@ Blinkit Data Analysis
 
 This repository contains a Power BI project analyzing Blinkit's sales data. The project provides key performance indicators (KPIs) and visualizations to gain insights into the business.
 
-![Screenshot (160)](https://github.com/user-attachments/assets/1eadc864-1b7f-43a5-a2ad-4597a7efef9f)
+![Screenshot (160)](https://github.com/user-attachments/assets/da4cd6e8-d2f3-4267-bad0-936ffe7e718e)
+
 
 
 Features
